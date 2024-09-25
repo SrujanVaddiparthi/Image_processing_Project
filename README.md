@@ -58,10 +58,9 @@ The model performed well on the validation set:
 - **Validation Loss:** [Add value here]
 
 ## How to Run
-
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/Maithili237/Image_processing_Project.git
+    git clone https://github.com/SrujanVaddiparthi/Image_processing_Project.git
     cd Image_processing_Project
     ```
 2. **Install the required packages:**
